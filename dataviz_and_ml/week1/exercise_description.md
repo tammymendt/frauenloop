@@ -4,7 +4,7 @@
 
  * [Ted Talks data set](https://www.kaggle.com/rounakbanik/ted-talks) (kaggle.com)
  * [Earth surface temperature data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) (kaggle.com)
- * [List of english stop words](https://www.ranks.nl/stopwords) (ranks.nl)
+ * [EDGAR CO2 Emissions](https://github.com/openclimatedata/edgar-co2-emissions)
  
  
 ## Resources
