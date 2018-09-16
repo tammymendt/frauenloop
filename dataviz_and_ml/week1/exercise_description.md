@@ -9,3 +9,4 @@
  
 ## Resources
  * https://datavizcatalogue.com
+ * [Word cloud in Python](https://www.kaggle.com/y983zhan/word-cloud-with-python)
