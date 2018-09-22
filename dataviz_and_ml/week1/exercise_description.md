@@ -15,5 +15,8 @@
  * [Data viz Catalogue](https://datavizcatalogue.com): great reference for understanding what kind of graphs are good for which kind of information you want to show.
  * [Python Graph Gallery](https://python-graph-gallery.com/): great resource for code snippets on how to create graphs in Python. 
     * [Word cloud in Python](https://www.kaggle.com/y983zhan/word-cloud-with-python)
- * [Google Dataset Search Engine](https://toolbox.google.com/datasetsearch)
+ * [Google Dataset Search Engine](https://toolbox.google.com/datasetsearch
+ 
+## Inspiration
+* Towards data science blog - [climate change posts](https://towardsdatascience.com/tagged/climate-change)
 
