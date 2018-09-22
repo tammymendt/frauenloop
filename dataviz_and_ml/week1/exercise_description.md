@@ -3,6 +3,7 @@
 ## Datasets
 
  * [Ted Talks data set](https://www.kaggle.com/rounakbanik/ted-talks) (kaggle.com)
+    * Get inspired by what others have done with the same dataset [here](https://www.kaggle.com/vinodmadyalkar/analysing-ted-talks-ratings)
  * [Earth surface temperature data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) (kaggle.com)
    * Get inspired by what others have done with the same dataset [here](https://www.kaggle.com/hathaaaway/climate-change)
  * [Open Climate Data](http://openclimatedata.net/)
