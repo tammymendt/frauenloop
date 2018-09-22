@@ -7,6 +7,7 @@
    * Get inspired by what others have done with the same dataset [here](https://www.kaggle.com/hathaaaway/climate-change)
  * [Open Climate Data](http://openclimatedata.net/)
     * [EDGAR CO2 Emissions](https://github.com/openclimatedata/edgar-co2-emissions)
+      * Get inspired by what others have done with the same data set [here](https://github.com/openclimatedata/notebooks/blob/master/EDGAR%20CO2%20Emissions.ipynb)
  
  
 ## Resources
@@ -14,4 +15,4 @@
  * [Python Graph Gallery](https://python-graph-gallery.com/): great resource for code snippets on how to create graphs in Python. 
     * [Word cloud in Python](https://www.kaggle.com/y983zhan/word-cloud-with-python)
  * [Google Dataset Search Engine](https://toolbox.google.com/datasetsearch)
- * [IPython notebook on Edgar CO2 emissions data](https://github.com/openclimatedata/notebooks/blob/master/EDGAR%20CO2%20Emissions.ipynb)
+
