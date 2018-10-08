@@ -1,2 +1,3 @@
-Nice data viz resources for practicing your dataviz skills:
-- https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f
+Only if you have already completed until "Plotting with Plotly" tutorial in the tutorial from week2:
+- Follow this tutorial to recreate Hans Roslings stats with Plotly: https://www.kaggle.com/aashita/guide-to-animated-bubble-charts-using-plotly
+- Use Tableau public to load the Earth Surface Temperature data, classify months by season and create line chart to see the evolution of the temperature over time for a given country. 
